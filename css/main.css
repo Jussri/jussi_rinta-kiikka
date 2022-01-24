@@ -4,3 +4,18 @@ body{
 .red{
     background-color: rgb(219, 9, 9);
 }
+.container-fluid{
+    background-color: bisque;
+}
+
+.container{
+    background-color: rgb(219, 9, 9);
+}
+footer{
+    background-color: bisque;
+    text-align: center;
+    font-weight: bold;
+}
+table{
+    font-weight: bold;
+}
