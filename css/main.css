@@ -19,3 +19,7 @@ footer{
 table{
     font-weight: bold;
 }
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
